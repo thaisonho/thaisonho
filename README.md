@@ -1,4 +1,4 @@
--Hi, I am tson, also called as James.
+-Hi, I am **tson**, also called as James.
 
 -Up to now, I'm still a student whom explore the world of computer science.
 
