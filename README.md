@@ -1,10 +1,11 @@
--Hi, I am **tson**, also called as **James**.
+# Greetings
 
--Up to now, I'm still a student whom explore the world of computer science.
+I'm Thai Son, also know at James, welcom to my Github page.
 
--Always love new tech.
+# Whoami
 
--Hope I could have some new *interesting* thing in the **future** :)
+- I'm a student who have a passion in technology and programming.
+- Always love to learn many things.
 
 <!---
 thaisonho/thaisonho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
