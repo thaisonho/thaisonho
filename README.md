@@ -1,6 +1,6 @@
 # Greetings
 
-I'm Thai Son, also know at James, welcom to my Github page.
+I'm Thai Son, also know at James, welcome to my Github page.
 
 # Whoami
 
