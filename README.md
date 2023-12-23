@@ -1,3 +1,6 @@
+# Hi, I'm Jason 👨‍💻
+
+🏫 Currently a student in University of Science, VNUHCM. Major in Information Technology 💻
 
 <!---
 thaisonho/thaisonho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
