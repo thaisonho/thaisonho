@@ -1,6 +1,6 @@
 # Hi, I'm Jason 👨‍💻
 
-🏫 Currently a undergraduate student in University of Science, VNUHCM. Major in Information Technology 💻
+🏫 Currently an undergraduate student in University of Science, VNUHCM. Majoring in Information Technology 💻
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisonho&layout=compact)
