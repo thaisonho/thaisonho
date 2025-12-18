@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisonho&layout=compact)
 
 ## Contact me?
-📩 <work@jsonh.me>
+📩 <work@jsonho.com>
 
 📩 <htson23@clc.fitus.edu.vn>
 
